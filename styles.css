@@ -165,7 +165,7 @@ nav {
       rgba(11, 20, 35, 0.8),
       rgba(11, 20, 35, 0.8)
     ),
-    url("assets/header.jpg");
+    url("assets/Acer_Wallpaper_03_3840x2400.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -217,7 +217,7 @@ nav {
 }
 
 .about__image img {
-  max-width: 380px;
+  max-width: 300px;
   margin-inline: auto;
   border: 1rem solid var(--secondary-color-dark);
 }
